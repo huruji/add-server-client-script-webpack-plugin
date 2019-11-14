@@ -10,7 +10,7 @@ npm i --save-dev add-server-client-script-webpack-plugin
 
 ```js
 // webpack.config.js
-const AddServerClientScriptPlugin = reuire('open-browser-plugin')
+const AddServerClientScriptPlugin = reuire('add-server-client-script-webpack-plugin')
 
 const config = {
   plugins: [
