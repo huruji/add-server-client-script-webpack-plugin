@@ -27,7 +27,7 @@
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-jsx-a11y": "^6.1.2",
     "eslint-plugin-react": "^7.12.3",
-    "standard-version": "^4.4.0"
+    "standard-version": "^8.0.1"
   },
   "homepage": "https://github.com/huruji/add-server-client-script-webpack-plugin#readme"
 }
